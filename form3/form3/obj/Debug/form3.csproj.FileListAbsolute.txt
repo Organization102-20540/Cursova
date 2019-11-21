@@ -1,0 +1,10 @@
+D:\EOM\form3\form3\bin\Debug\form3.exe.config
+D:\EOM\form3\form3\bin\Debug\form3.exe
+D:\EOM\form3\form3\bin\Debug\form3.pdb
+D:\EOM\form3\form3\obj\Debug\form3.csprojAssemblyReference.cache
+D:\EOM\form3\form3\obj\Debug\form3.Form1.resources
+D:\EOM\form3\form3\obj\Debug\form3.Properties.Resources.resources
+D:\EOM\form3\form3\obj\Debug\form3.csproj.GenerateResource.cache
+D:\EOM\form3\form3\obj\Debug\form3.csproj.CoreCompileInputs.cache
+D:\EOM\form3\form3\obj\Debug\form3.exe
+D:\EOM\form3\form3\obj\Debug\form3.pdb

@@ -1,0 +1,10 @@
+D:\EOM\form4\form4\bin\Debug\form4.exe.config
+D:\EOM\form4\form4\bin\Debug\form4.exe
+D:\EOM\form4\form4\bin\Debug\form4.pdb
+D:\EOM\form4\form4\obj\Debug\form4.csprojAssemblyReference.cache
+D:\EOM\form4\form4\obj\Debug\form4.Form1.resources
+D:\EOM\form4\form4\obj\Debug\form4.Properties.Resources.resources
+D:\EOM\form4\form4\obj\Debug\form4.csproj.GenerateResource.cache
+D:\EOM\form4\form4\obj\Debug\form4.csproj.CoreCompileInputs.cache
+D:\EOM\form4\form4\obj\Debug\form4.exe
+D:\EOM\form4\form4\obj\Debug\form4.pdb

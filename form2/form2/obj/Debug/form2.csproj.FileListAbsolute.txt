@@ -1,0 +1,10 @@
+D:\EOM\form2\form2\obj\Debug\form2.csprojAssemblyReference.cache
+D:\EOM\form2\form2\obj\Debug\form2.Form1.resources
+D:\EOM\form2\form2\obj\Debug\form2.Properties.Resources.resources
+D:\EOM\form2\form2\obj\Debug\form2.csproj.GenerateResource.cache
+D:\EOM\form2\form2\obj\Debug\form2.csproj.CoreCompileInputs.cache
+D:\EOM\form2\form2\bin\Debug\form2.exe.config
+D:\EOM\form2\form2\bin\Debug\form2.exe
+D:\EOM\form2\form2\bin\Debug\form2.pdb
+D:\EOM\form2\form2\obj\Debug\form2.exe
+D:\EOM\form2\form2\obj\Debug\form2.pdb

@@ -1,0 +1,10 @@
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2.0.csprojAssemblyReference.cache
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2._0.Form4.resources
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2._0.Properties.Resources.resources
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2.0.csproj.GenerateResource.cache
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2.0.csproj.CoreCompileInputs.cache
+D:\EOM\form2\form2.0\form2.0\bin\Debug\form2.0.exe.config
+D:\EOM\form2\form2.0\form2.0\bin\Debug\form2.0.exe
+D:\EOM\form2\form2.0\form2.0\bin\Debug\form2.0.pdb
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2.0.exe
+D:\EOM\form2\form2.0\form2.0\obj\Debug\form2.0.pdb
